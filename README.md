@@ -1,4 +1,4 @@
-## Hi there 👋
+A little of this, a little of that
 
 <!--
 **slingercode/slingercode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
